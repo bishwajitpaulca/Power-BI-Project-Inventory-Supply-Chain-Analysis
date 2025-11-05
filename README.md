@@ -9,3 +9,4 @@ In this project, what I did:
 🚚 Supply Chain KPIs: Analyzed lead times, delivery performance, and supplier reliability.
 🔢 Advanced DAX Calculations: Built actionable insights for procurement and operations.
 
+<img width="509" height="272" alt="Dashboard _Inventory and Supply Chain Management Analysis" src="https://github.com/user-attachments/assets/ffe79495-fcce-4163-ac45-505f2eeaa69a" />
